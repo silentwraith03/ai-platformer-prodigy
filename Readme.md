@@ -43,11 +43,11 @@ tensorboard --logdir=.
 <img src='images/sc3.gif'>
 
 ## Tech Used
-Frontend: Simulation environment visualization using Matplotlib and Pygame
-Backend: Python, PyTorch
-Simulation Environment: gym, gym_super_mario_bros
-Reinforcement Learning: stable-baselines3
-Data Handling: NumPy, Pandas
+Frontend: Simulation environment visualization using Matplotlib and Pygame  
+Backend: Python, PyTorch  
+Simulation Environment: gym, gym_super_mario_bros    
+Reinforcement Learning: stable-baselines3  
+Data Handling: NumPy, Pandas  
 
 ## License
 [MIT](LICENSE)
