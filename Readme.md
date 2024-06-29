@@ -40,6 +40,8 @@ tensorboard --logdir=.
 ## Screenshots
 <img src='images/sc1.png'>
 <img src='images/sc2.png'>
+
+## Demo
 <img src='images/sc3.gif'>
 
 ## Tech Used
