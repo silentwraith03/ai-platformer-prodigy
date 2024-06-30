@@ -10,7 +10,7 @@ AI Platformer Prodigy is a sophisticated AI training framework designed for Supe
 ## Installation
 1. Clone the repository or download the source code.
 ```bash
-git clone [https://github.com/Sourish07/Super-Mario-Bros-RL.git]
+git clone https://github.com/silentwraith03/ai-platformer-prodigy.git
 ```
 2. Navigate to the project directory
 ```bash
